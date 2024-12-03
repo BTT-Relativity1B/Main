@@ -39,17 +39,16 @@ Our project is part of the Break Through Tech AI Program, where we work in colla
 
 # Included 
 
-## 1. Major Project Deliverables
-
-### 1.1. Example 1 - Project Scope and Deliverables
-
-### 1.2. Example 2 - Team Progress Summary
+* Major Project Deliverables
+* Project Scope and Deliverables
+* Team Progress Summary
 
 ## 2. Meeting Notes
 
-### 2.1. - Meeting Notes August
-### 2.2. - Meeting Notes September
-### 2.3. - Meeting Notes October
+* Meeting Notes August
+* Meeting Notes September
+* Meeting Notes October
+* Meeting Notes November
 
 # Usage 
 - Whether you are contributing to the project, reviewing our findings, or interested in learning more about bias in AI, this repository provides all the necessary resources to follow our progress and understand our approach to bias detection and reduction in AI models.
