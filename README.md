@@ -10,6 +10,8 @@ Challenge Advisors: Sean Underwood, Mary Gibbs
 - [Included]
 - [Usage]
 - [Execution]
+- [License]
+- [Credit and Acknowledgments]
 - [References]
 
 # About {#sec-About}
@@ -48,10 +50,16 @@ Our project is part of the Break Through Tech AI Program, where we work in colla
 
 
 # License {#sec-License}
-
+* Apache License 2.0: An open-source license that is recommended for all AI Studio Challenge Projects.
 
 # Credits And Acknowledgments {#sec-Credits And Acknowledgments}
-
+* Preston Firestone (Teacher Assistant)
+* Mary Gibbs (Challenge Advisor)
+* Sean Underwood (Challenge Advisor)
+* Kennedy Martin (Collaborator)
+* Ana Garcia (Collaborator)
+* Helen Song (Collaborator)
+* Jannatul Nayeem (Collaborator)
 
 # References {#sec-References}
 - [Link to BBQ Github](https://github.com/nyu-mll/BBQ?tab=readme-ov-file)
