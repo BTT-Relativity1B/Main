@@ -21,7 +21,18 @@ Our project is part of the Break Through Tech AI Program, where we work in colla
 
 # Project Overview {#sec-Project-Overview}
 
-## Overview, Objective, Goals
+## Overview/Objective, Goals
+
+### Overview/Objective
+**Investigate whether Large Language Models (LLMs) exhibit bias in regards to socioeconomic status.**
+
+### Goals:
+
+* Assess datasets
+* Perturb and add onto existing datasets
+* Obtain and compare model outputs
+* Report on model evaluation
+
 
 ## Methodology
 
