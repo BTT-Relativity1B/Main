@@ -1,3 +1,9 @@
+# Evaluating Frontier Models for Performance and Representation
+Collaborators: Kennedy Martin, Ana Garcia, Helen Song, Jannatul Nayeem
+
+TA: Preston Firestone  
+Challenge Advisors: Sean Underwood, Mary Gibbs
+
 - [About](#about)
 - [Project Overview](#project-overview)
 - [Included](#included)
