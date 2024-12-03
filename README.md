@@ -35,6 +35,8 @@ Our project is part of the Break Through Tech AI Program, where we work in colla
 
 ## Results and Key Findings
 
+* Our results do not show any significant bias regarding socio economic standing. The use of different models, templates did not change this. However, we did find that models are more easily able to categorize negative sentiments as such whereas positive sentiments have a higher likelyhood to be catergorized as neutral. 
+
 ## Potential Next Steps
 1. Model Comparisons
 Use the framework to systematically compare and benchmark models for bias across key metrics.
