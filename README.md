@@ -36,6 +36,11 @@ Our project is part of the Break Through Tech AI Program, where we work in colla
 ## Results and Key Findings
 
 ## Potential Next Steps
+1. Model Comparisons
+Use the framework to systematically compare and benchmark models for bias across key metrics.
+
+3. Prompt Engineering
+Test LLMs within the framework using prompt engineering for direct bias evaluation.
 
 # Included 
 
