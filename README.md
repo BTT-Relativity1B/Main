@@ -1,25 +1,18 @@
-# Evaluating Frontier Models for Performance and Representation
-Collaborators: Kennedy Martin, Ana Garcia, Helen Song, Jannatul Nayeem
-
-TA: Preston Firestone
-Challenge Advisors: Sean Underwood, Mary Gibbs
-
-# Table of Contents:
-- [About]
-- [Project Overview]
-- [Included]
-- [Usage]
-- [Execution]
-- [License]
-- [Credit and Acknowledgments]
-- [References]
-
-# About {#sec-About}
+- [About](#about)
+- [Project Overview](#project-overview)
+- [Included](#included)
+- [Usage](#usage)
+- [Execution](#execution)
+- [License](#license)
+- [Credit and Acknowledgments](#credit-and-acknowledgments)
+- [References](#references)
+  
+# About 
 Welcome to the Break Through Tech x Relativity 1B Bias Detection Project repository! This repository serves as the central hub for all code, documentation, and resources related to our project, which focuses on identifying and mitigating bias in machine learning models.
 
 Our project is part of the Break Through Tech AI Program, where we work in collaboration with Relativity to tackle the issue of bias in AI models. We are developing tools and methodologies to analyze models, uncover inherent biases, and explore strategies to reduce or eliminate these biases. 
 
-# Project Overview {#sec-Project-Overview}
+# Project Overview 
 
 ## Overview/Objective
 **Investigate whether Large Language Models (LLMs) exhibit bias in regards to socioeconomic status.**
@@ -38,7 +31,7 @@ Our project is part of the Break Through Tech AI Program, where we work in colla
 
 ## Potential Next Steps
 
-# Included {#sec-Included}
+# Included 
 
 ## 1. Major Project Deliverables
 
@@ -52,13 +45,13 @@ Our project is part of the Break Through Tech AI Program, where we work in colla
 ### 2.2. - Meeting Notes September
 ### 2.3. - Meeting Notes October
 
-# Usage {#sec-Usage}
+# Usage 
 - Whether you are contributing to the project, reviewing our findings, or interested in learning more about bias in AI, this repository provides all the necessary resources to follow our progress and understand our approach to bias detection and reduction in AI models.
 
-# Execution {#sec-Execution}
+# Execution 
 
 
-# License {#sec-License}
+# License 
 * Apache License 2.0: An open-source license that is recommended for all AI Studio Challenge Projects.
 
 # Credits And Acknowledgments {#sec-Credits And Acknowledgments}
@@ -70,7 +63,7 @@ Our project is part of the Break Through Tech AI Program, where we work in colla
 * Helen Song (Collaborator)
 * Jannatul Nayeem (Collaborator)
 
-# References {#sec-References}
+# References 
 - [Link to BBQ Github](https://github.com/nyu-mll/BBQ?tab=readme-ov-file)
 - [Link to Amazon Fairness Github](https://github.com/amazon-science/generalized-fairness-metrics?tab=readme-ov-file)
 - [Langtest Test Categories](https://langtest.org/docs/pages/docs/test_categories)
