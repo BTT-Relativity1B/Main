@@ -1,9 +1,9 @@
 Included are the linkes to various colab documents:
 
-- https://colab.research.google.com/drive/1tZweXSPOm0F5-MfPn4I4zXNYeeaSNUiz#scrollTo=1sTVfi12cl6D
-- https://colab.research.google.com/drive/1avt0u4-ydX94uCbGC2bSVDxcvmKzcyiT?usp=sharing#scrollTo=sDVaY6TdCH05
-- https://colab.research.google.com/drive/1msVyC2Gq-wH_lo8O0Inbg3wcOYHQqiVP?usp=sharing
-- https://colab.research.google.com/drive/19KE3d1Yxjz8T7-TjtvXJ2cnTv55nfDXG
+- https://colab.research.google.com/drive/1tZweXSPOm0F5-MfPn4I4zXNYeeaSNUiz#scrollTo=1sTVfi12cl6D (Testing model pipeline)
+- https://colab.research.google.com/drive/1avt0u4-ydX94uCbGC2bSVDxcvmKzcyiT?usp=sharing#scrollTo=sDVaY6TdCH05 (Main Colab w/ datasets) 
+- https://colab.research.google.com/drive/1msVyC2Gq-wH_lo8O0Inbg3wcOYHQqiVP?usp=sharing (Langtest name-based bias)
+- https://colab.research.google.com/drive/19KE3d1Yxjz8T7-TjtvXJ2cnTv55nfDXG (Direct model testing) 
 
 
 
