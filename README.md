@@ -1,5 +1,6 @@
 # Evaluating Frontier Models for Performance and Representation
 Collaborators: Kennedy Martin, Ana Garcia, Helen Song, Jannatul Nayeem
+
 TA: Preston Firestone
 Challenge Advisors: Sean Underwood, Mary Gibbs
 
@@ -33,4 +34,8 @@ Our project is part of the Break Through Tech AI Program, where we work in colla
 - Whether you are contributing to the project, reviewing our findings, or interested in learning more about bias in AI, this repository provides all the necessary resources to follow our progress and understand our approach to bias detection and reduction in AI models.
 
 # References {#sec-References}
+- [Link to BBQ Github](https://github.com/nyu-mll/BBQ?tab=readme-ov-file)
+- [Link to Amazon Fairness Github](https://github.com/amazon-science/generalized-fairness-metrics?tab=readme-ov-file)
+- [Langtest Test Categories](https://langtest.org/docs/pages/docs/test_categories)
+- [Hugging Face Model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)
 - 
