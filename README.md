@@ -10,7 +10,7 @@ Challenge Advisors: Sean Underwood, Mary Gibbs
 - [Usage](#usage)
 - [Execution](#execution)
 - [License](#license)
-- [Credit and Acknowledgments](#credit-and-acknowledgments)
+- [Credit and Acknowledgments](#credits-and-acknowledgments)
 - [References](#references)
   
 # About 
@@ -209,7 +209,7 @@ Test LLMs within the framework using prompt engineering for direct bias evaluati
 # License 
 * Apache License 2.0: An open-source license that is recommended for all AI Studio Challenge Projects.
 
-# Credits And Acknowledgments {#sec-Credits And Acknowledgments}
+# Credits and Acknowledgments
 * Preston Firestone (Teacher Assistant)
 * Mary Gibbs (Challenge Advisor)
 * Sean Underwood (Challenge Advisor)
@@ -223,4 +223,3 @@ Test LLMs within the framework using prompt engineering for direct bias evaluati
 - [Link to Amazon Fairness Github](https://github.com/amazon-science/generalized-fairness-metrics?tab=readme-ov-file)
 - [Langtest Test Categories](https://langtest.org/docs/pages/docs/test_categories)
 - [Hugging Face Model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)
-- 
