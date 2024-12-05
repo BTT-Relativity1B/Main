@@ -194,10 +194,10 @@ Test LLMs within the framework using prompt engineering for direct bias evaluati
 
 # Execution 
 1. Access the Colab Notebook
-* Download or open the collaborative Google Colab notebook provided in this repository (Colab/CollectiveCollabs)
+* Download or open the collaborative Google Colab notebook provided in this repository (Colab/CollectiveCollabs).
 * Follow the instructions in the notebook to load and configure langtest with custom datasets and selected models.
 2. Set Up Your Environment
-* Ensure the required libraries are installed -> pip install langtest pydantic langchain
+* Ensure the required libraries are installed -> pip install langtest pydantic langchain.
 3. Customize Your Tests
 * Use the langtest documentation to modify or replace test categories with the bias tests of your choice.
 4. Run the Tests
