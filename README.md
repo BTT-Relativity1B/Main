@@ -193,7 +193,18 @@ Test LLMs within the framework using prompt engineering for direct bias evaluati
 - Whether you are contributing to the project, reviewing our findings, or interested in learning more about bias in AI, this repository provides all the necessary resources to follow our progress and understand our approach to bias detection and reduction in AI models.
 
 # Execution 
-
+1. Access the Colab Notebook
+* Download or open the collaborative Google Colab notebook provided in this repository (Colab/CollectiveCollabs)
+* Follow the instructions in the notebook to load and configure langtest with custom datasets and selected models.
+2. Set Up Your Environment
+* Ensure the required libraries are installed -> pip install langtest pydantic langchain
+3. Customize Your Tests
+* Use the langtest documentation to modify or replace test categories with the bias tests of your choice.
+4. Run the Tests
+* Execute the notebook cells to run bias detection tests on your chosen model and dataset.
+* View the results directly in the notebook or export them for further analysis.
+5. Resources for help
+* Refer to Langtest Docummentation under References for a complete guide on configuring bias tests. 
 
 # License 
 * Apache License 2.0: An open-source license that is recommended for all AI Studio Challenge Projects.
